@@ -1,2 +1,3 @@
-# OneeChan-SteamTheme
-Color Theme for OneeChan - https://github.com/KevinParnell/OneeChan
+<p align="center">
+    <img src="example.png">
+</p>
